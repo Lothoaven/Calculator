@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+Def JoeKabbira():
+    a = "Joe Kabirra"
+    Print(a "sucks")
+if name="Joe"
+   Text="You rock"
+else
+text="You are amazing"
